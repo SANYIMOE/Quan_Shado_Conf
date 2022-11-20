@@ -8,7 +8,7 @@
 ### 规则地址
 ### 官方规则地址
 #### 默认规则地址
-- Shadowrocket：``
+- Shadowrocket：`https://quan-shado-conf.mojy.xyz/conf/shadowrocket.conf`
 - Quantumult：``
 - QuantumultX：``
 
