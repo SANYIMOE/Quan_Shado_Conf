@@ -13,19 +13,19 @@
 - QuantumultX：`https://quan-shado-conf.mojy.xyz/conf/quantumultx.conf`
 
 #### 玉桂更新服务
-- Shadowrocket：``
-- Quantumult：``
-- QuantumultX：``
+- Shadowrocket：`https://update.mojy.xyz/quan-shado-conf/.new/shadowrocket.conf`
+- Quantumult：`https://update.mojy.xyz/quan-shado-conf/.new/quantumult.conf`
+- QuantumultX：`https://update.mojy.xyz/quan-shado-conf/.new/quantumultx.conf`
 
 #### CDNMOE
-- Shadowrocket：``
-- Quantumult：``
-- QuantumultX：``
+- Shadowrocket：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/Quan_Shado_Conf/conf/shadowrocket.conf`
+- Quantumult：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/Quan_Shado_Conf/conf/quantumult.conf`
+- QuantumultX：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/Quan_Shado_Conf/conf/quantumultx.conf`
 
 #### jsDelivr
-- Shadowrocket：``
-- Quantumult：``
-- QuantumultX：``
+- Shadowrocket：`https://cdn.jsdelivr.net/gh/SANYIMOE/Quan_Shado_Conf/conf/shadowrocket.conf`
+- Quantumult：`https://cdn.jsdelivr.net/gh/SANYIMOE/Quan_Shado_Conf/conf/quantumult.conf`
+- QuantumultX：`https://cdn.jsdelivr.net/gh/SANYIMOE/Quan_Shado_Conf/conf/quantumultx.conf`
 
 ### 第三方规则地址
 ```
