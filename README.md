@@ -11,21 +11,25 @@
 - Shadowrocket：`https://quan-shado-conf.mojy.xyz/conf/shadowrocket.conf`
 - Quantumult：`https://quan-shado-conf.mojy.xyz/conf/quantumult.conf`
 - QuantumultX：`https://quan-shado-conf.mojy.xyz/conf/quantumultx.conf`
+- Loon：`https://quan-shado-conf.mojy.xyz/conf/loon.conf`
 
 #### 玉桂更新服务
 - Shadowrocket：`https://update.mojy.xyz/quan-shado-conf/.new/shadowrocket.conf`
 - Quantumult：`https://update.mojy.xyz/quan-shado-conf/.new/quantumult.conf`
 - QuantumultX：`https://update.mojy.xyz/quan-shado-conf/.new/quantumultx.conf`
+- Loon：`https://update.mojy.xyz/quan-shado-conf/.new/loon.conf`
 
 #### CDNMOE
 - Shadowrocket：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/Quan_Shado_Conf/conf/shadowrocket.conf`
 - Quantumult：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/Quan_Shado_Conf/conf/quantumult.conf`
 - QuantumultX：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/Quan_Shado_Conf/conf/quantumultx.conf`
+- Loon：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/Quan_Shado_Conf/conf/loon.conf`
 
 #### jsDelivr
 - Shadowrocket：`https://cdn.jsdelivr.net/gh/SANYIMOE/Quan_Shado_Conf/conf/shadowrocket.conf`
 - Quantumult：`https://cdn.jsdelivr.net/gh/SANYIMOE/Quan_Shado_Conf/conf/quantumult.conf`
 - QuantumultX：`https://cdn.jsdelivr.net/gh/SANYIMOE/Quan_Shado_Conf/conf/quantumultx.conf`
+- Loon：`https://cdn.jsdelivr.net/gh/SANYIMOE/Quan_Shado_Conf/conf/loon.conf`
 
 ### 第三方规则地址
 ```
