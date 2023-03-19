@@ -1,6 +1,6 @@
 # Quan_Shado_Conf项目
 ## 一、介绍
-本项目提供Shadowrocket、Quantumult、QuantumultX等的懒人配置文件，随时更新，对国内外网站访问提供更好的分流规则。
+本项目提供Shadowrocket、Quantumult、QuantumultX、Loon等的懒人配置文件，随时更新，对国内外网站访问提供更好的分流规则。
 
 ## 二、使用方法
 在网络工具下载配置文件即可
