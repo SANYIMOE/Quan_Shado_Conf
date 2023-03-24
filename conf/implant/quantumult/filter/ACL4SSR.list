@@ -14040,3 +14040,55 @@ DOMAIN-SUFFIX,vv.video.qq.com,国内媒体
 DOMAIN-SUFFIX,youku.com,国内媒体
 IP-CIDR,106.11.0.0/16,国内媒体,no-resolve
 # 国内媒体 End
+
+# 哔哩哔哩 Start
+# 内容：Bilibili 哔哩哔哩
+# 数量：21条
+USER-AGENT,Bilibili*,国内媒体
+USER-AGENT,bili*,国内媒体
+USER-AGENT,bili-inter*,国内媒体
+DOMAIN,apiintl.biliapi.net,国内媒体
+DOMAIN,upos-hz-mirrorakam.akamaized.net,国内媒体
+DOMAIN-SUFFIX,acg.tv,国内媒体
+DOMAIN-SUFFIX,acgvideo.com,国内媒体
+DOMAIN-SUFFIX,b23.tv,国内媒体
+DOMAIN-SUFFIX,bigfun.cn,国内媒体
+DOMAIN-SUFFIX,bigfunapp.cn,国内媒体
+DOMAIN-SUFFIX,biliapi.com,国内媒体
+DOMAIN-SUFFIX,biliapi.net,国内媒体
+DOMAIN-SUFFIX,bilibili.com,国内媒体
+DOMAIN-SUFFIX,bilibili.tv,国内媒体
+DOMAIN-SUFFIX,biligame.com,国内媒体
+DOMAIN-SUFFIX,biligame.net,国内媒体
+DOMAIN-SUFFIX,bilivideo.cn,国内媒体
+DOMAIN-SUFFIX,bilivideo.com,国内媒体
+DOMAIN-SUFFIX,hdslb.com,国内媒体
+DOMAIN-SUFFIX,im9.com,国内媒体
+DOMAIN-SUFFIX,smtcdns.net,国内媒体
+# 哔哩哔哩 End
+
+# 哔哩哔哩HMT Start
+# 内容：BilibiliHMT 哔哩哔哩 港澳台番剧
+# 数量：21条
+DOMAIN,p-bstarstatic.akamaized.net,国外媒体
+DOMAIN,p.bstarstatic.com,国外媒体
+DOMAIN,upos-bstar-mirrorakam.akamaized.net,国外媒体
+DOMAIN,upos-bstar1-mirrorakam.akamaized.net,国外媒体
+DOMAIN,upos-hz-mirrorakam.akamaized.net,国外媒体
+DOMAIN-SUFFIX,acgvideo.com,国外媒体
+DOMAIN-SUFFIX,bilibili.com,国外媒体
+DOMAIN-SUFFIX,bilibili.tv,国外媒体
+IP-CIDR,45.43.32.234/32,国外媒体,no-resolve
+IP-CIDR,103.151.150.0/23,国外媒体,no-resolve
+IP-CIDR,119.29.29.29/32,国外媒体,no-resolve
+IP-CIDR,128.1.62.200/32,国外媒体,no-resolve
+IP-CIDR,128.1.62.201/32,国外媒体,no-resolve
+IP-CIDR,150.116.92.250/32,国外媒体,no-resolve
+IP-CIDR,164.52.33.178/32,国外媒体,no-resolve
+IP-CIDR,164.52.33.182/32,国外媒体,no-resolve
+IP-CIDR,164.52.76.18/32,国外媒体,no-resolve
+IP-CIDR,203.107.1.33/32,国外媒体,no-resolve
+IP-CIDR,203.107.1.34/32,国外媒体,no-resolve
+IP-CIDR,203.107.1.65/32,国外媒体,no-resolve
+IP-CIDR,203.107.1.66/32,国外媒体,no-resolve
+# 哔哩哔哩HMT End
