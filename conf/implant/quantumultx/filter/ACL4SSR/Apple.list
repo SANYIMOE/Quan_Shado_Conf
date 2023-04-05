@@ -1,0 +1,30 @@
+# Apple
+# 一般国内Apple肯定正常,不需要开代理
+DOMAIN,apple.comscoreresearch.com,苹果服务
+DOMAIN-SUFFIX,aaplimg.com,苹果服务
+DOMAIN-SUFFIX,akadns.net,苹果服务
+DOMAIN-SUFFIX,apple-cloudkit.com,苹果服务
+DOMAIN-SUFFIX,apple-mapkit.com,苹果服务
+DOMAIN-SUFFIX,apple.co,苹果服务
+DOMAIN-SUFFIX,apple.com,苹果服务
+DOMAIN-SUFFIX,apple.com.cn,苹果服务
+DOMAIN-SUFFIX,apple.news,苹果服务
+DOMAIN-SUFFIX,appstore.com,苹果服务
+DOMAIN-SUFFIX,cdn-apple.com,苹果服务
+DOMAIN-SUFFIX,crashlytics.com,苹果服务
+DOMAIN-SUFFIX,icloud-content.com,苹果服务
+DOMAIN-SUFFIX,icloud.com,苹果服务
+DOMAIN-SUFFIX,icloud.com.cn,苹果服务
+DOMAIN-SUFFIX,itunes.com,苹果服务
+DOMAIN-SUFFIX,me.com,苹果服务
+DOMAIN-SUFFIX,mzstatic.com,苹果服务
+IP-CIDR,17.0.0.0/8,苹果服务,no-resolve
+IP-CIDR,63.92.224.0/19,苹果服务,no-resolve
+IP-CIDR,65.199.22.0/23,苹果服务,no-resolve
+IP-CIDR,139.178.128.0/18,苹果服务,no-resolve
+IP-CIDR,144.178.0.0/19,苹果服务,no-resolve
+IP-CIDR,144.178.36.0/22,苹果服务,no-resolve
+IP-CIDR,144.178.48.0/20,苹果服务,no-resolve
+IP-CIDR,192.35.50.0/24,苹果服务,no-resolve
+IP-CIDR,198.183.17.0/24,苹果服务,no-resolve
+IP-CIDR,205.180.175.0/24,苹果服务,no-resolve

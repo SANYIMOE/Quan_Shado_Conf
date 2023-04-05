@@ -1,0 +1,17 @@
+# OneDrive
+USER-AGENT,OneDrive*,微软云盘
+USER-AGENT,OneDriveiOSApp*,微软云盘
+DOMAIN-KEYWORD,1drv,微软云盘
+DOMAIN-KEYWORD,onedrive,微软云盘
+DOMAIN-KEYWORD,skydrive,微软云盘
+DOMAIN-SUFFIX,livefilestore.com,微软云盘
+DOMAIN-SUFFIX,oneclient.sfx.ms,微软云盘
+DOMAIN-SUFFIX,onedrive.com,微软云盘
+DOMAIN-SUFFIX,onedrive.live.com,微软云盘
+DOMAIN-SUFFIX,photos.live.com,微软云盘
+DOMAIN-SUFFIX,sharepoint.com,微软云盘
+DOMAIN-SUFFIX,sharepointonline.com,微软云盘
+DOMAIN-SUFFIX,skydrive.wns.windows.com,微软云盘
+DOMAIN-SUFFIX,spoprod-a.akamaihd.net,微软云盘
+DOMAIN-SUFFIX,storage.live.com,微软云盘
+DOMAIN-SUFFIX,storage.msn.com,微软云盘
