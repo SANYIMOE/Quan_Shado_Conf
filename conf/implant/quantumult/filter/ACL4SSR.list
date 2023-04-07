@@ -59950,11 +59950,6 @@ DOMAIN-SUFFIX,gvt1.com,节点选择
 DOMAIN-SUFFIX,gvt2.com,节点选择
 DOMAIN-SUFFIX,gvt3.com,节点选择
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com,节点选择
-DOMAIN-SUFFIX,youtu.be,节点选择
-DOMAIN-SUFFIX,youtube-nocookie.com,节点选择
-DOMAIN-SUFFIX,youtube.com,节点选择
-DOMAIN-SUFFIX,yt.be,节点选择
-DOMAIN-SUFFIX,ytimg.com,节点选择
 IP-CIDR,74.125.0.0/16,节点选择,no-resolve
 IP-CIDR,173.194.0.0/16,节点选择,no-resolve
 # GoogleCNProxyIP 谷歌中国服务 services.googleapis.cn
@@ -60006,20 +60001,6 @@ IP-CIDR,119.235.235.0/24,节点选择,no-resolve
 IP-CIDR,119.235.236.0/23,节点选择,no-resolve
 IP-CIDR,147.92.128.0/17,节点选择,no-resolve
 IP-CIDR,203.104.128.0/19,节点选择,no-resolve
-# OneDrive
-DOMAIN-KEYWORD,1drv,节点选择
-DOMAIN-KEYWORD,onedrive,节点选择
-DOMAIN-KEYWORD,skydrive,节点选择
-DOMAIN-SUFFIX,livefilestore.com,节点选择
-DOMAIN-SUFFIX,oneclient.sfx.ms,节点选择
-DOMAIN-SUFFIX,onedrive.com,节点选择
-DOMAIN-SUFFIX,onedrive.live.com,节点选择
-DOMAIN-SUFFIX,photos.live.com,节点选择
-DOMAIN-SUFFIX,skydrive.wns.windows.com,节点选择
-DOMAIN-SUFFIX,spoprod-a.akamaihd.net,节点选择
-DOMAIN-SUFFIX,storage.live.com,节点选择
-DOMAIN-SUFFIX,storage.msn.com,节点选择
-#DOMAIN-SUFFIX,aria.microsoft.com,节点选择
 # Porn
 DOMAIN-KEYWORD,porn,节点选择
 DOMAIN-SUFFIX,8teenxxx.com,节点选择
@@ -60086,19 +60067,6 @@ DOMAIN-SUFFIX,t.co,节点选择
 DOMAIN-SUFFIX,twimg.co,节点选择
 DOMAIN-SUFFIX,twimg.com,节点选择
 DOMAIN-SUFFIX,twimg.org,节点选择
-# Telegram
-DOMAIN-SUFFIX,t.me,节点选择
-DOMAIN-SUFFIX,tdesktop.com,节点选择
-DOMAIN-SUFFIX,telegra.ph,节点选择
-DOMAIN-SUFFIX,telegram.me,节点选择
-DOMAIN-SUFFIX,telegram.org,节点选择
-DOMAIN-SUFFIX,telesco.pe,节点选择
-IP-CIDR,91.108.0.0/16,节点选择,no-resolve
-IP-CIDR,109.239.140.0/24,节点选择,no-resolve
-IP-CIDR,149.154.160.0/20,节点选择,no-resolve
-IP-CIDR6,2001:67c:4e8::/48,节点选择,no-resolve
-IP-CIDR6,2001:b28:f23d::/48,节点选择,no-resolve
-IP-CIDR6,2001:b28:f23f::/48,节点选择,no-resolve
 # TeraBox
 DOMAIN-SUFFIX,terabox.com,节点选择
 DOMAIN-SUFFIX,teraboxcdn.com,节点选择
