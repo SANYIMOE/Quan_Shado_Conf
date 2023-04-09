@@ -395,7 +395,7 @@
 ^https?:\/\/www\.xiaohongshu\.com\/api\/sns\/v\d\/system_service\/splash_config url reject
 ^https?:\/\/www\.zybang\.com\/adx\/ url reject
 ^https?:\/\/xyst\.yuanfudao\.com\/iphone\/splashesV\d url reject
-^https?:\/\/xyz\.cnki\.net\/resourcev7\/api\/manualpush\/SlidsList$url reject
+^https?:\/\/xyz\.cnki\.net\/resourcev7\/api\/manualpush\/SlidsList$ url reject
 ^https?:\/\/y\.gtimg\.cn\/music\/common\/upload\/t_splash_info\/ url reject
 ^https?:\/\/yxhd\.horigz\.com\/\/jfmsApi\/commandWord\/commandWordInfo url reject
 ^https?:\/\/yxyapi\d\.drcuiyutao\.com\/yxyapigateway\/api\/json\/advert\/ url reject
