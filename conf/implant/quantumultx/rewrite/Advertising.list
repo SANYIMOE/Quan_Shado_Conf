@@ -173,7 +173,6 @@
 ^https?:\/\/c\.tieba\.baidu\.com\/c\/s\/splashSchedule url reject
 ^https?:\/\/cap\.caocaokeji\.cn\/advertbss\/ url reject
 ^https?:\/\/capi\.mwee\.cn\/appapi\/V\d+\/app\/(ad|getstartad) url reject
-^https?:\/\/capis(?\w*)?\.didapinche\.com\/ad\/boot\? url reject
 ^https?:\/\/capis(?\w*)?\.didapinche\.com\/ad\/event? url reject
 ^https?:\/\/capis(?\w*)?\.didapinche\.com\/ad\/ride\/detail\? url reject
 ^https?:\/\/capis(\d)?\.didapinche\.com\/ad\/ url reject
