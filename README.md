@@ -10,3 +10,4 @@
 - Quantumult：`https://quan-shado-conf.mojy.xyz/conf/quantumult.conf`
 - QuantumultX：`https://quan-shado-conf.mojy.xyz/conf/quantumultx.conf`
 - Loon：`https://quan-shado-conf.mojy.xyz/conf/loon.conf`
+- Surge：`https://quan-shado-conf.mojy.xyz/conf/surge.conf`
