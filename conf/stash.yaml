@@ -6,6 +6,7 @@
 # https://github.com/SANYIMOE/Quan_Shado_Conf/raw/master/LICENSE
 
 # 安装地址：https://quan-shado-conf.mojy.xyz/conf/stash.yaml
+# 启动前请先在[配置列表]->[可视化编辑]->[通用]中，设置[默认模式]为[Rule]，设置[日志等级]为[Info]
 # 您的机场订阅请在[配置列表]->[可视化编辑]中添加一个新的远程代理集
 # 去广告等脚本请先打开首页的MitM，安装并信任证书后即可
 # 机场订阅面板请配合BoxJS使用，BoxJS订阅地址：https://raw.githubusercontent.com/smartmimi/conf/master/boxjs/cookie.boxjs.json
