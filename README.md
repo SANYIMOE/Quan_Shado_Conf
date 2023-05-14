@@ -11,3 +11,4 @@
 - QuantumultX：`https://quan-shado-conf.mojy.xyz/conf/quantumultx.conf`
 - Loon：`https://quan-shado-conf.mojy.xyz/conf/loon.conf`
 - Surge：`https://quan-shado-conf.mojy.xyz/conf/surge.conf`
+- Stash：`https://quan-shado-conf.mojy.xyz/conf/stash.yaml`
