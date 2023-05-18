@@ -1,9 +1,0 @@
-# 内容：Origin
-# 数量：7条
-DOMAIN,cloudsync-prod.s3.amazonaws.com,游戏平台
-DOMAIN,eaasserts-a.akamaihd.net,游戏平台
-DOMAIN,origin-a.akamaihd.net,游戏平台
-DOMAIN,originasserts.akamaized.net,游戏平台
-DOMAIN,rtm.tnt-ea.com,游戏平台
-DOMAIN-SUFFIX,ea.com,游戏平台
-DOMAIN-SUFFIX,origin.com,游戏平台
